@@ -1,2 +1,6 @@
 *.pickle
 output.txt
+*.h5
+outputVGG.txt
+200_epochs_log.png
+1000_epochs.png
